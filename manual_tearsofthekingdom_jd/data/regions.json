@@ -1,0 +1,142 @@
+{
+  "Akkala": {
+    "requires": "|Ulri Mountain Skyview Tower|",
+    "connects_to": []
+  },
+  "Lookout Landing": {
+    "requires": "|Lookout Landing Skyview Tower|",
+    "connects_to": []
+  },
+  "Hyrule Field": {
+    "requires": "|Hyrule Field Skyview Tower|",
+    "connects_to": []
+  },
+  "Lindor's Brow": {
+    "requires": "|Lindor's Brow Skyview Tower|",
+    "connects_to": []
+  },
+  "Rospro Pass": {
+    "requires": "|Rospro Pass Skyview Tower| AND |@Cold Resistance|",
+    "connects_to": []
+  },
+  "Pikida Stonegrove": {
+    "requires": "|Pikida Stonegrove Skyview Tower| AND |Ultrahand| AND |@Cold Resistance|",
+    "connects_to": []
+  },
+  "Upland Zorana": {
+    "requires": "|Upland Zorana Skyview Tower|",
+    "connects_to": []
+  },
+  "Mount Lanayru": {
+    "requires": "|Mount Lanayru Skyview Tower| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))",
+    "connects_to": []
+  },
+  "Sahasra Slope": {
+    "requires": "|Sahasra Slope Skyview Tower| AND |Fuse| AND |Ascend|",
+    "connects_to": []
+  },
+  "Rabella Wetlands": {
+    "requires": "|Rabella Wetlands Skyview Tower| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Popla Foothills": {
+    "requires": "|Popla Foothills Skyview Tower|",
+    "connects_to": []
+  },
+  "Eldin": {
+    "requires": "|Eldin Canyon Skyview Tower| AND |Recall|",
+    "connects_to": []
+  },
+  "Great Hyrule Forest": {
+    "requires": "|Thyphlo Ruins Skyview Tower| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Gerudo Highlands": {
+    "requires": "|Gerudo Highlands Skyview Tower| AND |Ultrahand| AND |Ascend| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))",
+    "connects_to": []
+  },
+  "Gerudo Canyon": {
+    "requires": "|Gerudo Canyon Skyview Tower| AND |Ultrahand| AND |@Cold Resistance| AND |@Heat Resistance|",
+    "connects_to": []
+  },
+  "Akkala Depths": {
+    "requires": "|Ulri Mountain Skyview Tower| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Lookout Landing Depths": {
+    "requires": "|Lookout Landing Skyview Tower| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Hyrule Field Depths": {
+    "requires": "|Hyrule Field Skyview Tower| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Lindor's Brow Depths": {
+    "requires": "|Lindor's Brow Skyview Tower| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Rospro Pass Depths": {
+    "requires": "|Rospro Pass Skyview Tower| AND |@Cold Resistance| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Pikida Stonegrove Depths": {
+    "requires": "|Pikida Stonegrove Skyview Tower| AND |Ultrahand| AND |@Cold Resistance| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade|",
+    "connects_to": []
+  },
+  "Upland Zorana Depths": {
+    "requires": "|Upland Zorana Skyview Tower| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Mount Lanayru Depths": {
+    "requires": "|Mount Lanayru Skyview Tower| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Sahasra Slope Depths": {
+    "requires": "|Sahasra Slope Skyview Tower| AND |Fuse| AND |Ascend| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Rabella Wetlands Depths": {
+    "requires": "|Rabella Wetlands Skyview Tower| AND |Ultrahand| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade|",
+    "connects_to": []
+  },
+  "Popla Foothills Depths": {
+    "requires": "|Popla Foothills Skyview Tower| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Eldin Depths": {
+    "requires": "|Eldin Canyon Skyview Tower| AND |Recall| AND ((|@Upgradeable Flame Resistant Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Flame Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Flame Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Flame Resistant Legs|)) AND |Progressive Armor Upgrade| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Great Hyrule Forest Depths": {
+    "requires": "|Thyphlo Ruins Skyview Tower| AND |Ultrahand| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade|",
+    "connects_to": []
+  },
+  "Gerudo Highlands Depths": {
+    "requires": "|Gerudo Highlands Skyview Tower| AND |Ultrahand| AND |Ascend| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade|",
+    "connects_to": []
+  },
+  "Gerudo Canyon Depths": {
+    "requires": "|Gerudo Canyon Skyview Tower| AND |Ultrahand| AND |@Cold Resistance| AND |@Heat Resistance| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Progressive Armor Upgrade|",
+    "connects_to": []
+  },
+  "Wind Temple": {
+    "requires": "|Rospro Pass Skyview Tower| AND |Ascend| AND |Ultrahand| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))",
+    "connects_to": []
+  },
+  "Fire Temple": {
+    "requires": "|Eldin Canyon Skyview Tower| AND |Recall| AND |@Flame Resistance| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Water Temple": {
+    "requires": "|Upland Zorana Skyview Tower| AND |Zora Armor| AND |Recall| AND |Ultrahand|",
+    "connects_to": []
+  },
+  "Lightning Temple": {
+    "requires": "|Gerudo Canyon Skyview Tower| AND |Ultrahand| AND |@Cold Resistance| AND |@Heat Resistance| AND |Recall|",
+    "connects_to": []
+  },
+  "Spirit Temple": {
+    "requires": "|Popla Foothills Skyview Tower| AND |Charged Headdress| AND |Charged Shirt| AND |Charged Trousers| AND ((|Stamina Vessel:2| OR (|Progressive Vow of Tulin| AND |Stamina Vessel|)) AND |Ascend|) OR (|Rabella Wetlands Skyview Tower| AND (|Stamina Vessel:9| OR (|Progressive Vow of Tulin| AND |Stamina Vessel:8|))) AND |Heart Container:10| AND |Ultrahand| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths|",
+    "connects_to": []
+  }
+}

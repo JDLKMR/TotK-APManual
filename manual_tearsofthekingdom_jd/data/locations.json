@@ -1,0 +1,4224 @@
+[
+  {
+    "name": "Ulri Mountain Skyview Tower",
+    "region": "Akkala",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gemimik Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Gemimik Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Domizuin Shrine - Chest 1",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Domizuin Shrine - Chest 2",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Domizuin Shrine - Chest 3",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Domizuin Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Sinatanika Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sinatanika Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayachideg Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mayachideg Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jochi-iu Shrine - Chest 1",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jochi-iu Shrine - Chest 2",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jochi-iu Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kamatukis Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kamatukis Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Rasiwak Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Rasiwak Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Igashuk Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Igashuk Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Jochi-ihiga Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jochi-ihiga Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Natak Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Natak Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Sky Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Gikaku Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Gikaku Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Sky Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mogisari Shrine - Chest",
+    "region": "Akkala",
+    "category": [
+      "Akkala Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Energy Well:10|"
+  },
+  {
+    "name": "Mogisari Shrine",
+    "region": "Akkala",
+    "category": [
+      "Akkala Sky Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Energy Well:10|"
+  },
+  {
+    "name": "Lookout Landing Skyview Tower",
+    "region": "Lookout Landing",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Susuyai Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Susuyai Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jiosin Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jiosin Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Yamiyo Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yamiyo Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kyononis Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kyononis Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ishodag Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ishodag Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Serutabomac Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "(|Stamina Vessel:4| OR (|Stamina Vessel:3| AND |Progressive Vow of Tulin|)) AND |Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Serutabomac Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": "(|Stamina Vessel:4| OR (|Stamina Vessel:3| AND |Progressive Vow of Tulin|)) AND |Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Sepapa Shrine - Chest",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Sepapa Shrine",
+    "region": "Lookout Landing",
+    "category": [
+      "Lookout Landing Shrines"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Hyrule Field Skyview Tower",
+    "region": "Hyrule Field",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tadarok Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend| AND |Recall|"
+  },
+  {
+    "name": "Tadarok Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Ascend| AND |Recall|"
+  },
+  {
+    "name": "Riogok Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Riogok Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Tsutsu-um Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Tsutsu-um Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Usazum Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Usazum Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Sonapan Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend| AND |Recall|"
+  },
+  {
+    "name": "Sonapan Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Ascend| AND |Recall|"
+  },
+  {
+    "name": "Mayachin Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mayachin Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Teniten Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Teniten Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tajikats Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Tajikats Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kamizun Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Kamizun Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Kyokugon Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Kyokugon Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Jinodok Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Energy Well:4|"
+  },
+  {
+    "name": "Jinodok Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Hyrule Field Sky Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Energy Well:4|"
+  },
+  {
+    "name": "Lindor's Brow Skyview Tower",
+    "region": "Lindor's Brow",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kioyoyou Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kioyoyou Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Oromuwak Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Oromuwak Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ikatak Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND (|Fuse| OR |Ascend|) AND |Recall|"
+  },
+  {
+    "name": "Ikatak Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": "|Ultrahand| AND (|Fuse| OR |Ascend|) AND |Recall|"
+  },
+  {
+    "name": "Iun-orok Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Iun-orok Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Makurukis Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Makurukis Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Runakit Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Runakit Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Taki-ihaban Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Taki-ihaban Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sinakawak Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Sinakawak Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Taunhiy Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Taunhiy Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Sky Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ga-ahisas Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Gerudo Highlands Skyview Tower| AND |Ultrahand| AND |Ascend| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND (|Stamina Vessel:2| OR (|Stamina Vessel| AND |Progressive Vow of Tulin|)) AND (|Fuse| OR |Progressive Vow of Yunobo|)"
+  },
+  {
+    "name": "Ga-ahisas Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Sky Shrines"
+    ],
+    "requires": "|Gerudo Highlands Skyview Tower| AND |Ultrahand| AND |Ascend| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND (|Stamina Vessel:2| OR (|Stamina Vessel| AND |Progressive Vow of Tulin|)) AND (|Fuse| OR |Progressive Vow of Yunobo|)"
+  },
+  {
+    "name": "Ganos Shrine - Chest",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Gerudo Highlands Skyview Tower| AND |Ultrahand| AND |Ascend| AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Cold Resistant Legs|)) AND (|Stamina Vessel:2| OR (|Stamina Vessel| AND |Progressive Vow of Tulin|)) AND |Fuse| AND |Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Ganos Shrine",
+    "region": "Lindor's Brow",
+    "category": [
+      "Lindor's Brow Sky Shrines"
+    ],
+    "requires": "|Gerudo Highlands Skyview Tower| AND |Ultrahand| AND |Ascend| AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Cold Resistant Legs|)) AND (|Stamina Vessel:2| OR (|Stamina Vessel| AND |Progressive Vow of Tulin|)) AND |Fuse| AND |Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Ukouh Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ukouh Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "In-isa Shrine - Chest 1",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "In-isa Shrine - Chest 2",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "In-isa Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Gutanbac Shrine - Chest 1",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |@Cold Resistance|"
+  },
+  {
+    "name": "Gutanbac Shrine - Chest 2",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |@Cold Resistance|"
+  },
+  {
+    "name": "Gutanbac Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines"
+    ],
+    "requires": "|Ascend| AND |@Cold Resistance|"
+  },
+  {
+    "name": "Nachoyah Shrine - Chest",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Nachoyah Shrine",
+    "region": "Hyrule Field",
+    "category": [
+      "Great Sky Island Shrines"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Rospro Pass Skyview Tower",
+    "region": "Rospro Pass",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Otak Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Otak Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Tauyosipun Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall| AND |Ultrahand|"
+  },
+  {
+    "name": "Tauyosipun Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "|Recall| AND |Ultrahand|"
+  },
+  {
+    "name": "Eutoum Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Ascend| AND |Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Eutoum Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Ascend| AND |Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Rutafu-um Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Ultrahand|"
+  },
+  {
+    "name": "Rutafu-um Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Ultrahand|"
+  },
+  {
+    "name": "Sisuran Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Sisuran Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Sahirow Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |Ultrahand|"
+  },
+  {
+    "name": "Sahirow Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Wao-os Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Wao-os Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Gatakis Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gatakis Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ijo-o Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ijo-o Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Sky Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Kahatanaum Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |Ultrahand| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+  },
+  {
+    "name": "Kahatanaum Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Sky Shrines"
+    ],
+    "requires": "|Ascend| AND |Ultrahand| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|))"
+  },
+  {
+    "name": "Mayaumekis Shrine - Chest",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Mayaumekis Shrine",
+    "region": "Rospro Pass",
+    "category": [
+      "Rospro Pass Sky Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Pikida Stonegrove Skyview Tower",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nouda Shrine - Chest",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Ascend|"
+  },
+  {
+    "name": "Nouda Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines"
+    ],
+    "requires": "|Fuse| AND |Ascend|"
+  },
+  {
+    "name": "Orochium Shrine - Chest 1",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Orochium Shrine - Chest 2",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Orochium Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Oshozan-u Shrine - Chest",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Oshozan-u Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayaotaki Shrine - Chest",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayaotaki Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayausiy Shrine - Chest",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayausiy Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Taninoud Shrine - Chest",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Taninoud Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Sky Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tenbez Shrine - Chest",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Tenbez Shrine",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Pikida Stonegrove Sky Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Upland Zorana Skyview Tower",
+    "region": "Upland Zorana",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rasitakiwak Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |Ultrahand|"
+  },
+  {
+    "name": "Rasitakiwak Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ascend| AND |Ultrahand|"
+  },
+  {
+    "name": "Maoikes Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Maoikes Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Yomizuk Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Yomizuk Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Apogek Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Apogek Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Joniu Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Joniu Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mogawak Shrine - Chest 1",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mogawak Shrine - Chest 2",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mogawak Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ihen-a Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ihen-a Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Gatanisis Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Gatanisis Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Shrines"
+    ],
+    "requires": "|Ascend| AND (|Recall| OR |Fuse|)"
+  },
+  {
+    "name": "Jirutagumac Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Jirutagumac Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Sky Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Igoshon Shrine - Chest",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Zora Armor| AND |Ultrahand|"
+  },
+  {
+    "name": "Igoshon Shrine",
+    "region": "Upland Zorana",
+    "category": [
+      "Upland Zorana Sky Shrines"
+    ],
+    "requires": "|Zora Armor| AND |Ultrahand| AND |Recall|"
+  },
+  {
+    "name": "Mount Lanayru Skyview Tower",
+    "region": "Mount Lanayru",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Zanmik Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Zanmik Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mayahisik Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayahisik Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Anedamimik Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |Recall|"
+  },
+  {
+    "name": "Anedamimik Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines"
+    ],
+    "requires": "|Ascend| AND |Recall|"
+  },
+  {
+    "name": "Zakusu Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall| AND |Fuse|"
+  },
+  {
+    "name": "Zakusu Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines"
+    ],
+    "requires": "|Recall| AND |Fuse|"
+  },
+  {
+    "name": "Jikais Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Jikais Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Jogou Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jogou Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sihajog Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sihajog Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Sky Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayanas Shrine - Chest",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Mayanas Shrine",
+    "region": "Mount Lanayru",
+    "category": [
+      "Mount Lanayru Sky Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Sahasra Slope Skyview Tower",
+    "region": "Sahasra Slope",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ren-iz Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ren-iz Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jojon Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Recall|"
+  },
+  {
+    "name": "Jojon Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Recall|"
+  },
+  {
+    "name": "Tukarok Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Tukarok Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jonsau Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Recall|"
+  },
+  {
+    "name": "Jonsau Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Recall|"
+  },
+  {
+    "name": "Morok Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Morok Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kurakat Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kurakat Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Makasura Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Makasura Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Eshos Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eshos Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "O-ogim Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "O-ogim Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ukoojisi Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|Stamina Vessel:5| OR (|Progressive Vow of Tulin| AND |Stamina Vessel:4|)) OR (|Popla Foothills Skyview Tower| AND |Energy Well:7|)) AND |Ultrahand|"
+  },
+  {
+    "name": "Ukoojisi Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Sky Shrines"
+    ],
+    "requires": "((|Stamina Vessel:5| OR (|Progressive Vow of Tulin| AND |Stamina Vessel:4|)) OR (|Popla Foothills Skyview Tower| AND |Energy Well:7|)) AND |Ultrahand|"
+  },
+  {
+    "name": "Josiu Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Josiu Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Sky Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Yansamin Shrine - Chest",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND (|Energy Well:9| OR (|Energy Well:6| AND |Progressive Vow of Tulin|)) AND |Stamina Vessel:5| AND |Zora Armor|"
+  },
+  {
+    "name": "Yansamin Shrine",
+    "region": "Sahasra Slope",
+    "category": [
+      "Sahasra Slope Sky Shrines"
+    ],
+    "requires": "|Ultrahand| AND (|Energy Well:9| OR (|Energy Well:6| AND |Progressive Vow of Tulin|)) AND |Stamina Vessel:5| AND |Zora Armor|"
+  },
+  {
+    "name": "Rabella Wetlands Skyview Tower",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Marari-in Shrine - Chest",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+  },
+  {
+    "name": "Marari-in Shrine",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines"
+    ],
+    "requires": "|Fuse| AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+  },
+  {
+    "name": "Bamitok Shrine - Chest",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| OR |Ascend|"
+  },
+  {
+    "name": "Bamitok Shrine",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines"
+    ],
+    "requires": "|Fuse| OR |Ascend|"
+  },
+  {
+    "name": "Sifumim Shrine - Chest",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Sifumim Shrine",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Tokiy Shrine - Chest",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tokiy Shrine",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kumamayn Shrine - Chest",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+  },
+  {
+    "name": "Kumamayn Shrine",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Rabella Wetlands Sky Shrines"
+    ],
+    "requires": "|Fuse| AND |Progressive Armor Upgrade:2| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+  },
+  {
+    "name": "Popla Foothills Skyview Tower",
+    "region": "Popla Foothills",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jochisiu Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jochisiu Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Susub Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Susub Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jiukoum Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Jiukoum Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Utojis Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Utojis Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Joju-u-u Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Joju-u-u Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Utsushok Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Utsushok Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ishokin Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ishokin Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "En-oma Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Stamina Vessel:4| OR (|Stamina Vessel:3| AND |Progressive Vow of Tulin|)"
+  },
+  {
+    "name": "En-oma Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Shrines"
+    ],
+    "requires": "|Stamina Vessel:4| OR (|Stamina Vessel:3| AND |Progressive Vow of Tulin|)"
+  },
+  {
+    "name": "Joku-u Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Charged Headdress| AND |Charged Shirt| AND |Charged Trousers| AND ((|Stamina Vessel:2| OR (|Progressive Vow of Tulin| AND |Stamina Vessel|)) AND |Ascend|) OR (|Rabella Wetlands Skyview Tower| AND |Ultrahand| AND (|Stamina Vessel:9| OR (|Progressive Vow of Tulin| AND |Stamina Vessel:8|)))"
+  },
+  {
+    "name": "Joku-u Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Sky Shrines"
+    ],
+    "requires": "|Charged Headdress| AND |Charged Shirt| AND |Charged Trousers| AND ((|Stamina Vessel:2| OR (|Progressive Vow of Tulin| AND |Stamina Vessel|)) AND |Ascend|) OR (|Rabella Wetlands Skyview Tower| AND |Ultrahand| AND (|Stamina Vessel:9| OR (|Progressive Vow of Tulin| AND |Stamina Vessel:8|)))"
+  },
+  {
+    "name": "Joku-usin Shrine - Chest",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Charged Headdress| AND |Charged Shirt| AND |Charged Trousers| AND (|Stamina Vessel:2| OR (|Progressive Vow of Tulin| AND |Stamina Vessel|)) AND |Ascend| AND |Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Joku-usin Shrine",
+    "region": "Popla Foothills",
+    "category": [
+      "Popla Foothills Sky Shrines"
+    ],
+    "requires": "|Charged Headdress| AND |Charged Shirt| AND |Charged Trousers| AND (|Stamina Vessel:2| OR (|Progressive Vow of Tulin| AND |Stamina Vessel|)) AND |Ascend| AND |Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Eldin Canyon Skyview Tower",
+    "region": "Eldin",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kimayat Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |Fuse|"
+  },
+  {
+    "name": "Kimayat Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Ascend| AND |Fuse|"
+  },
+  {
+    "name": "Sibajitak Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Sibajitak Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Jiotak Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|@Flame Resistance| AND |Ultrahand|"
+  },
+  {
+    "name": "Jiotak Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|@Flame Resistance| AND |Ultrahand|"
+  },
+  {
+    "name": "Isisim Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Progressive Vow of Yunobo| AND |Fuse|"
+  },
+  {
+    "name": "Isisim Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Progressive Vow of Yunobo| AND |Fuse|"
+  },
+  {
+    "name": "Marakuguc Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Marakuguc Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Ascend|"
+  },
+  {
+    "name": "Sitsum Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Sitsum Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Momosik Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Momosik Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Fuse| AND |Ultrahand|"
+  },
+  {
+    "name": "Ekochiu Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Ekochiu Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Timawak Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Timawak Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Moshapin Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse| AND |Ultrahand| AND |@Flame Resistance|"
+  },
+  {
+    "name": "Moshapin Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Fuse| AND |Ultrahand| AND |@Flame Resistance|"
+  },
+  {
+    "name": "Kisinona Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kisinona Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Shrines"
+    ],
+    "requires": "|Ultrahand|"
+  },
+  {
+    "name": "Kadaunar Shrine - Chest",
+    "region": "Eldin",
+    "category": [
+      "Eldin Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Kadaunar Shrine",
+    "region": "Eldin",
+    "category": [
+      "Eldin Sky Shrines"
+    ],
+    "requires": "|Ultrahand| AND |Fuse|"
+  },
+  {
+    "name": "Thyphlo Ruins Skyview Tower",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tenmaten Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tenmaten Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ninjis Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend| AND |Fuse| AND |Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Ninjis Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend| AND |Fuse| AND |Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Pupunke Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend| AND |Fuse| AND |Progressive Armor Upgrade:2| AND |Recall|"
+  },
+  {
+    "name": "Pupunke Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend| AND |Fuse| AND |Progressive Armor Upgrade:2| AND |Recall|"
+  },
+  {
+    "name": "Musanokir Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend|"
+  },
+  {
+    "name": "Musanokir Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend|"
+  },
+  {
+    "name": "Sakunbomar Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend| AND |Fuse| AND |Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Sakunbomar Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": "|Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Ascend| AND |Fuse| AND |Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Kikakin Shrine - Chest 1",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kikakin Shrine - Chest 2",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kikakin Shrine - Chest 3",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kikakin Shrine - Chest 4",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kikakin Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sikukuu Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall| AND |Ascend|"
+  },
+  {
+    "name": "Sikukuu Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Minetak Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Minetak Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayak Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayak Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Simosiwak Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Simosiwak Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Sky Shrines"
+    ],
+    "requires": "|Fuse|"
+  },
+  {
+    "name": "Mayam Shrine - Chest",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayam Shrine",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Great Hyrule Forest Sky Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gerudo Highlands Skyview Tower",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gasas Shrine - Chest 1",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Gasas Shrine - Chest 2",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Gasas Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Turakawak Shrine - Chest",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Turakawak Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Otutsum Shrine - Chest",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Otutsum Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayamats Shrine - Chest",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayamats Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rotsumamu Shrine - Chest",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rotsumamu Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Suariwak Shrine - Chest",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Yiga Mask| AND |Yiga Armor| AND |Yiga Tights| AND |Gerudo Canyon Skyview Tower| AND |@Heat Resistance|"
+  },
+  {
+    "name": "Suariwak Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Shrines"
+    ],
+    "requires": "|Yiga Mask| AND |Yiga Armor| AND |Yiga Tights| AND |Gerudo Canyon Skyview Tower| AND |@Heat Resistance|"
+  },
+  {
+    "name": "Mayasiar Shrine - Chest",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mayasiar Shrine",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Gerudo Highlands Sky Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gerudo Canyon Skyview Tower",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Skyview Towers"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kitawak Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kitawak Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Motsusis Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Motsusis Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Siwakama Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Recall| AND |Fuse|"
+  },
+  {
+    "name": "Siwakama Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Recall|"
+  },
+  {
+    "name": "Karahatag Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Ascend|"
+  },
+  {
+    "name": "Karahatag Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Recall|"
+  },
+  {
+    "name": "Irasak Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Recall|"
+  },
+  {
+    "name": "Irasak Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Recall|"
+  },
+  {
+    "name": "Miryotanog Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|))"
+  },
+  {
+    "name": "Miryotanog Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|))"
+  },
+  {
+    "name": "Soryotanog Shrine - Chest 1",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Soryotanog Shrine - Chest 2",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Soryotanog Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Chichim Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Ascend|"
+  },
+  {
+    "name": "Chichim Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "((|@Heat Resistant Head| AND |@Heat Resistant Body|) OR (|@Heat Resistant Head| AND |@Heat Resistant Legs|) OR (|@Heat Resistant Body| AND |@Heat Resistant Legs|)) AND |Ascend|"
+  },
+  {
+    "name": "Rakakudaj Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rakakudaj Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Turakamik Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Ascend| AND |Recall|"
+  },
+  {
+    "name": "Turakamik Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Mayatat Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Mayatat Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Kudanisar Shrine - Chest 1",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kudanisar Shrine - Chest 2",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Kudanisar Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Shrines"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Rakashog Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Energy Well:9|"
+  },
+  {
+    "name": "Rakashog Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Sky Shrines"
+    ],
+    "requires": "|Energy Well:9|"
+  },
+  {
+    "name": "Siyamotsus Shrine - Chest",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Sky Shrines",
+      "Shrine Chests"
+    ],
+    "requires": "|Energy Well:17|"
+  },
+  {
+    "name": "Siyamotsus Shrine",
+    "region": "Gerudo Canyon",
+    "category": [
+      "Gerudo Canyon Sky Shrines"
+    ],
+    "requires": "|Energy Well:17|"
+  },
+  {
+    "name": "Kimimeg Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Niuzimod Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Akinatanis Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gedihcayam Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ui-ihcoj Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sikutamak Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawisar Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kuhsagi Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Agihi-ihcoj Lightroot",
+    "region": "Akkala Depths",
+    "category": [
+      "Akkala Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Iayusus Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nisoij Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Oyimay Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sinonoyk Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gadohsi Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Camobatures Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Apapes Lightroot",
+    "region": "Lookout Landing Depths",
+    "category": [
+      "Lookout Landing Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Koradat Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kogoir Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mu-ustust Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Muzasu Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Napanos Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nihcayam Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Netinet Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stakijat Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nuzimak Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nogukoyk Lightroot",
+    "region": "Hyrule Field Depths",
+    "category": [
+      "Hyrule Field Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uoyoyoik Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawumoro Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kataki Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Koro-nui Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sikurukam Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tikanur Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nabahi-ikat Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawakanis Lightroot",
+    "region": "Lindor's Brow Depths",
+    "category": [
+      "Lindor's Brow Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kato Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nupisoyuat Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Muotue Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mu-ufatur Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Narusis Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Worihas Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "So-oaw Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sikatag Lightroot",
+    "region": "Rospro Pass Depths",
+    "category": [
+      "Rospro Pass Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Aduon Lightroot",
+    "region": "Pikida Stonegrove Depths",
+    "category": [
+      "Pikida Stonegrove Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Muihcoro Lightroot",
+    "region": "Pikida Stonegrove Depths",
+    "category": [
+      "Pikida Stonegrove Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "U-nazohso Lightroot",
+    "region": "Pikida Stonegrove Depths",
+    "category": [
+      "Pikida Stonegrove Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ikatoayam Lightroot",
+    "region": "Pikida Stonegrove Depths",
+    "category": [
+      "Pikida Stonegrove Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yisuayam Lightroot",
+    "region": "Pikida Stonegrove Depths",
+    "category": [
+      "Pikida Stonegrove Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawikatisar Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sekioam Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kuzimoy Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kegopa Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uinoj Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawagom Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "A-nehi Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sisinatag Lightroot",
+    "region": "Upland Zorana Depths",
+    "category": [
+      "Upland Zorana Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kimnaz Lightroot",
+    "region": "Mount Lanayru Depths",
+    "category": [
+      "Mount Lanayru Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kisihayam Lightroot",
+    "region": "Mount Lanayru Depths",
+    "category": [
+      "Mount Lanayru Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kimimadena Lightroot",
+    "region": "Mount Lanayru Depths",
+    "category": [
+      "Mount Lanayru Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Usukaz Lightroot",
+    "region": "Mount Lanayru Depths",
+    "category": [
+      "Mount Lanayru Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Siakij Lightroot",
+    "region": "Mount Lanayru Depths",
+    "category": [
+      "Mount Lanayru Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uogoj Lightroot",
+    "region": "Mount Lanayru Depths",
+    "category": [
+      "Mount Lanayru Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Zi-ner Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nojoj Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Korakut Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uasnoj Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Korom Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Takaruk Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Arusakam Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sohse Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Migo-o Lightroot",
+    "region": "Sahasra Slope Depths",
+    "category": [
+      "Sahasra Slope Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ni-iraram Lightroot",
+    "region": "Rabella Wetlands Depths",
+    "category": [
+      "Rabella Wetlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kotimab Lightroot",
+    "region": "Rabella Wetlands Depths",
+    "category": [
+      "Rabella Wetlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mimufis Lightroot",
+    "region": "Rabella Wetlands Depths",
+    "category": [
+      "Rabella Wetlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Yikot Lightroot",
+    "region": "Rabella Wetlands Depths",
+    "category": [
+      "Rabella Wetlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uisihcoj Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Busus Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Muokuij Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sijotu Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "U-u-ujoj Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kohsustu Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nikohsi Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Amo-ne Lightroot",
+    "region": "Popla Foothills Depths",
+    "category": [
+      "Popla Foothills Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tayamik Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Katijabis Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Katoij Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Misisi Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cugukaram Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mustis Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kisomom Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uihcoke Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawamit Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nipahsom Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Anonisik Lightroot",
+    "region": "Eldin Depths",
+    "category": [
+      "Eldin Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Netamnet Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sijnin Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eknupup Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rikonasum Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ramobnukas Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Nikakik Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Uukukis Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Katenim Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kayam Lightroot",
+    "region": "Great Hyrule Forest Depths",
+    "category": [
+      "Great Hyrule Forest Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sasag Lightroot",
+    "region": "Gerudo Highlands Depths",
+    "category": [
+      "Gerudo Highlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawakarut Lightroot",
+    "region": "Gerudo Highlands Depths",
+    "category": [
+      "Gerudo Highlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mustuto Lightroot",
+    "region": "Gerudo Highlands Depths",
+    "category": [
+      "Gerudo Highlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stamayam Lightroot",
+    "region": "Gerudo Highlands Depths",
+    "category": [
+      "Gerudo Highlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Umamustor Lightroot",
+    "region": "Gerudo Highlands Depths",
+    "category": [
+      "Gerudo Highlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawiraus Lightroot",
+    "region": "Gerudo Highlands Depths",
+    "category": [
+      "Gerudo Highlands Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kawatik Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sisustom Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Amakawis Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gataharak Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kasari Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gonatoyrim Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gonatoyros Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mihcihc Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jadukakar Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kimakarut Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tatayam Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rasinaduk Lightroot",
+    "region": "Gerudo Canyon Depths",
+    "category": [
+      "Gerudo Canyon Lightroots",
+      "Lightroots"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wind Temple - Turbine 1",
+    "region": "Wind Temple",
+    "category": [
+      "Wind Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wind Temple - Turbine 2",
+    "region": "Wind Temple",
+    "category": [
+      "Wind Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wind Temple - Turbine 3",
+    "region": "Wind Temple",
+    "category": [
+      "Wind Temple"
+    ],
+    "requires": "|Recall|"
+  },
+  {
+    "name": "Wind Temple - Turbine 4",
+    "region": "Wind Temple",
+    "category": [
+      "Wind Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wind Temple - Turbine 5",
+    "region": "Wind Temple",
+    "category": [
+      "Wind Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Wind Temple - Colgera Defeated",
+    "region": "Wind Temple",
+    "category": [
+      "Wind Temple"
+    ],
+    "requires": "|Recall| AND |Fuse| AND |Progressive Armor Upgrade| AND ((|@Upgradeable Cold Resistant Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Cold Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Cold Resistant Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Cold Resistant Body| AND |@Upgradeable Cold Resistant Legs|))"
+  },
+  {
+    "name": "Fire Temple - Gong 1",
+    "region": "Fire Temple",
+    "category": [
+      "Fire Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fire Temple - Gong 2",
+    "region": "Fire Temple",
+    "category": [
+      "Fire Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fire Temple - Gong 3",
+    "region": "Fire Temple",
+    "category": [
+      "Fire Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fire Temple - Gong 4",
+    "region": "Fire Temple",
+    "category": [
+      "Fire Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fire Temple - Gong 5",
+    "region": "Fire Temple",
+    "category": [
+      "Fire Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Fire Temple - Marbled Gohma Defeated",
+    "region": "Fire Temple",
+    "category": [
+      "Fire Temple"
+    ],
+    "requires": "(|Fuse| OR |Progressive Master Sword:2|) AND |Progressive Armor Upgrade| AND ((|@Upgradeable Flame Resistant Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Flame Resistant Body| AND |@Upgradeable Legs|) OR (|@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Flame Resistant Legs|))"
+  },
+  {
+    "name": "Water Temple - Faucet 1",
+    "region": "Water Temple",
+    "category": [
+      "Water Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Water Temple - Faucet 2",
+    "region": "Water Temple",
+    "category": [
+      "Water Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Water Temple - Faucet 3",
+    "region": "Water Temple",
+    "category": [
+      "Water Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Water Temple - Faucet 4",
+    "region": "Water Temple",
+    "category": [
+      "Water Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Water Temple - Mucktorok Defeated",
+    "region": "Water Temple",
+    "category": [
+      "Water Temple"
+    ],
+    "requires": "(|Fuse| OR |Progressive Master Sword:2|) AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Legs|"
+  },
+  {
+    "name": "Lightning Temple - Battery 1",
+    "region": "Lightning Temple",
+    "category": [
+      "Lightning Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lightning Temple - Battery 2",
+    "region": "Lightning Temple",
+    "category": [
+      "Lightning Temple"
+    ],
+    "requires": "|Ascend|"
+  },
+  {
+    "name": "Lightning Temple - Battery 3",
+    "region": "Lightning Temple",
+    "category": [
+      "Lightning Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lightning Temple - Battery 4",
+    "region": "Lightning Temple",
+    "category": [
+      "Lightning Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lightning Temple - Queen Gibdo Defeated",
+    "region": "Lightning Temple",
+    "category": [
+      "Lightning Temple"
+    ],
+    "requires": "|Ascend| AND (|Fuse| OR |Progressive Master Sword:2|) AND |Progressive Armor Upgrade| AND |@Upgradeable Head| AND |@Upgradeable Body| AND |@Upgradeable Legs|"
+  },
+  {
+    "name": "Construct Factory - Left Leg",
+    "region": "Spirit Temple",
+    "category": [
+      "Spirit Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Construct Factory - Right Leg",
+    "region": "Spirit Temple",
+    "category": [
+      "Spirit Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Construct Factory - Left Arm",
+    "region": "Spirit Temple",
+    "category": [
+      "Spirit Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Construct Factory - Right Arm",
+    "region": "Spirit Temple",
+    "category": [
+      "Spirit Temple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Construct Factory - Seized Construct Defeated",
+    "region": "Spirit Temple",
+    "category": [
+      "Spirit Temple"
+    ],
+    "requires": "|Progressive Armor Upgrade:2|"
+  },
+  {
+    "name": "Demon Dragon Defeated",
+    "region": "Lookout Landing",
+    "category": [
+      "Victory"
+    ],
+    "requires": "|Progressive Master Sword| AND |Progressive Armor Upgrade:3| AND |Hood of the Depths| AND |Tunic of the Depths| AND |Gaiters of the Depths| AND |Fuse| AND |Recall| AND |Progressive Vow of Tulin| AND |Progressive Vow of Yunobo| AND |Progressive Vow of Sidon| AND |Progressive Vow of Riju| AND |Progressive Vow of Mineru|",
+    "victory": true
+  },
+  {
+    "region": "Lindor's Brow",
+    "name": "North Hyrule Plain - Dragon's Tear",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Tabantha Hills - Dragon's Tear",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Trilby Valley - Dragon's Tear",
+    "region": "Eldin",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "East Batrea Lake - Dragon's Tear",
+    "region": "Popla Foothills",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sapphia's Table - Dragon's Tear",
+    "region": "Gerudo Highlands",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Illumeni Plateau - Dragon's Tear",
+    "region": "Lindor's Brow",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gogobi Shores - Dragon's Tear",
+    "region": "Rabella Wetlands",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "North Tabantha Snowfield - Dragon's Tear",
+    "region": "Pikida Stonegrove",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Talus Plateau - Dragon's Tear",
+    "region": "Upland Zorana",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Mount Faloraa - Dragon's Tear",
+    "region": "Popla Foothills",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Deplian Badlands South - Dragon's Tear",
+    "region": "Great Hyrule Forest",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rist Peninsula - Dragon's Tear",
+    "region": "Akkala",
+    "category": [
+      "Dragon's Tears"
+    ],
+    "requires": "|Lindor's Brow Skyview Tower| AND |Pikida Stonegrove Skyview Tower| AND |Ultrahand| AND |Eldin Canyon Skyview Tower| AND |Recall| AND |Popla Foothills Skyview Tower| AND |Gerudo Highlands Skyview Tower| AND |Ascend| AND ((|@Cold Resistant Head| AND |@Cold Resistant Body|) OR (|@Cold Resistant Head| AND |@Cold Resistant Legs|) OR (|@Cold Resistant Body| AND |@Cold Resistant Legs|)) AND |Rabella Wetlands Skyview Tower| AND |Upland Zorana Skyview Tower| AND |Thyphlo Ruins Skyview Tower|"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "TearsoftheKingdom",
+  "creator": "JD",
+  "filler_item_name": "Arrows (10)",
+  "starting_items": [
+	{
+      "items": [
+        "Lookout Landing Skyview Tower"
+      ],
+	  "yaml_option": [
+		"!randomize_starting_tower"
+	  ]
+	},
+	{
+      "items": [
+        "Ulri Mountain Skyview Tower",
+        "Lookout Landing Skyview Tower",
+        "Hyrule Field Skyview Tower",
+        "Lindor's Brow Skyview Tower",
+        "Upland Zorana Skyview Tower",
+        "Popla Foothills Skyview Tower"
+      ],
+	  "random": 1,
+	  "yaml_option": [
+		"randomize_starting_tower"
+	  ]
+    },
+    {
+      "items": [
+        "Heart Container"
+      ],
+      "random": 3
+    },
+    {
+      "items": [
+        "Energy Well"
+      ],
+      "random": 3
+    },
+    {
+      "items": [
+        "Weapon Slot"
+      ],
+      "random": 9
+    },
+    {
+      "items": [
+        "Bow Slot"
+      ],
+      "random": 5
+    },
+    {
+      "items": [
+        "Shield Slot"
+      ],
+      "random": 4
+    }
+  ]
+}

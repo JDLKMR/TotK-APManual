@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "Ulri Mountain Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Lookout Landing Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Hyrule Field Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Lindor's Brow Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Rospro Pass Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Pikida Stonegrove Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Upland Zorana Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Mount Lanayru Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Sahasra Slope Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Rabella Wetlands Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Popla Foothills Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Eldin Canyon Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Thyphlo Ruins Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Gerudo Highlands Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Gerudo Canyon Skyview Tower",
+    "category": [
+      "Skyview Towers"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ultrahand",
+    "category": [
+      "Abilities"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Fuse",
+    "category": [
+      "Abilities"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ascend",
+    "category": [
+      "Abilities"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Recall",
+    "category": [
+      "Abilities"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Autobuild",
+    "category": [
+      "Abilities"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Camera",
+    "category": [
+      "Abilities"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Earthwake Manual",
+    "category": [
+      "Key Items"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Energy Well",
+    "count": 48,
+    "category": [
+      "Energy Wells"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Heart Container",
+    "count": 40,
+    "category": [
+      "Heart Containers"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Stamina Vessel",
+    "count": 10,
+    "category": [
+      "Stamina Vessels"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Travel Medallion",
+    "count": 3,
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Progressive Master Sword",
+    "count": 2,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Hylian Shield",
+    "category": [
+      "Equipment"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Progressive Vow of Tulin",
+    "count": 2,
+    "category": [
+      "Sage's Vows"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Progressive Vow of Yunobo",
+    "count": 2,
+    "category": [
+      "Sage's Vows"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Progressive Vow of Sidon",
+    "count": 2,
+    "category": [
+      "Sage's Vows"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "name": "Progressive Vow of Riju",
+    "count": 2,
+    "category": [
+      "Sage's Vows"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "name": "Progressive Vow of Mineru",
+    "count": 2,
+    "category": [
+      "Sage's Vows"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "name": "Weapon Slot",
+    "count": 19,
+    "category": [
+      "Weapon Slots"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Bow Slot",
+    "count": 14,
+    "category": [
+      "Bow Slots"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Shield Slot",
+    "count": 20,
+    "category": [
+      "Shield Slots"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Progressive Armor Upgrade",
+    "count": 4,
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Amber Earrings",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ancient Hero's Aspect",
+    "category": [
+      "Armor",
+      "Upgradeable Head",
+      "Upgradeable Body",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Archaic Legwear",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Archaic Tunic",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Archaic Warm Greaves",
+    "category": [
+      "Armor",
+      "Cold Resistance",
+      "Cold Resistant Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Barbarian Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Barbarian Armor",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Barbarian Leg Wraps",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Bokoblin Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Cece Hat",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Champion's Leathers",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Charged Headdress",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Charged Shirt",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Charged Trousers",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Climber's Bandanna",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Climbing Gear",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Climbing Boots",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Dark Hood",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Dark Tunic",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Dark Trousers",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Desert Voe Headband",
+    "category": [
+      "Armor",
+      "Heat Resistance",
+      "Heat Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Heat Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Desert Voe Spaulder",
+    "category": [
+      "Armor",
+      "Heat Resistance",
+      "Heat Resistant Body",
+      "Upgradeable Body",
+      "Upgradeable Heat Resistant Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Desert Voe Trousers",
+    "category": [
+      "Armor",
+      "Heat Resistance",
+      "Heat Resistant Legs",
+      "Upgradeable Legs",
+      "Upgradeable Heat Resistant Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Diamond Circlet",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ember Headdress",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ember Shirt",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ember Trousers",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Evil Spirit Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Evil Spirit Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Evil Spirit Greaves",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Fierce Deity Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Fierce Deity Armor",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Fierce Deity Boots",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Flamebreaker Helm",
+    "category": [
+      "Armor",
+      "Flame Resistance",
+      "Flame Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Flame Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Flamebreaker Armor",
+    "category": [
+      "Armor",
+      "Flame Resistance",
+      "Flame Resistant Body",
+      "Upgradeable Body",
+      "Upgradeable Flame Resistant Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Flamebreaker Boots",
+    "category": [
+      "Armor",
+      "Flame Resistance",
+      "Flame Resistant Legs",
+      "Upgradeable Legs",
+      "Upgradeable Flame Resistant Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Froggy Hood",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Froggy Sleeve",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Froggy Leggings",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Frostbite Headdress",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Frostbite Shirt",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Frostbite Trousers",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Glide Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Glide Shirt",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Glide Tights",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Horriblin Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Hylian Hood",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Hylian Tunic",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Hylian Trousers",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Island Lobster Shirt",
+    "category": [
+      "Armor",
+      "Heat Resistance",
+      "Heat Resistant Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Korok Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Lightning Helm",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Lizalfos Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Lynel Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Majora's Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Midna's Helmet",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Miner's Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Miner's Top",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Miner's Trousers",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Moblin Mask",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Mystic Headpiece",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Mystic Robe",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Mystic Trousers",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Mask of Awakening",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of Awakening",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of Awakening",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Cap of Time",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of Time",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of Time",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Cap of Twilight",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of Twilight",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of Twilight",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Hood of the Depths",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of the Depths",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Gaiters of the Depths",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Cap of the Hero",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of the Hero",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of the Hero",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Cap of the Sky",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of the Sky",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of the Sky",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Cap of the Wild",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of the Wild",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of the Wild",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Cap of the Wind",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of the Wind",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Trousers of the Wind",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Opal Earrings",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Phantom Helmet",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Phantom Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Phantom Greaves",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Radiant Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Radiant Shirt",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Radiant Tights",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ravio's Hood",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Royal Guard Cap",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Royal Guard Uniform",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Royal Guard Boots",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Rubber Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Rubber Armor",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Rubber Tights",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Ruby Circlet",
+    "category": [
+      "Armor",
+      "Cold Resistance",
+      "Cold Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Cold Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Sand Boots",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Sapphire Circlet",
+    "category": [
+      "Armor",
+      "Heat Resistance",
+      "Heat Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Heat Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Sheik's Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Snow Boots",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Snowquill Headdress",
+    "category": [
+      "Armor",
+      "Cold Resistance",
+      "Cold Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Cold Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Snowquill Tunic",
+    "category": [
+      "Armor",
+      "Cold Resistance",
+      "Cold Resistant Body",
+      "Upgradeable Body",
+      "Upgradeable Cold Resistant Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Snowquill Trousers",
+    "category": [
+      "Armor",
+      "Cold Resistance",
+      "Cold Resistant Legs",
+      "Upgradeable Legs",
+      "Upgradeable Cold Resistant Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Soldier's Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Soldier's Armor",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Soldier's Greaves",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Stealth Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Stealth Chest Guard",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Stealth Tights",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tingle's Hood",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Tingle's Shirt",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Tingle's Tights",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Topaz Earrings",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Tunic of Memories",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Vah Medoh Divine Helm",
+    "category": [
+      "Armor",
+      "Cold Resistance",
+      "Cold Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Cold Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Vah Naboris Divine Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Vah Rudania Divine Helm",
+    "category": [
+      "Armor",
+      "Flame Resistance",
+      "Flame Resistant Head",
+      "Upgradeable Head",
+      "Upgradeable Flame Resistant Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Vah Ruta Divine Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Well-Worn Hair Band",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Yiga Mask",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Yiga Armor",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Yiga Tights",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Zant's Helmet",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Zonaite Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Zonaite Waistguard",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Zonaite Shin Guards",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Zora Helm",
+    "category": [
+      "Armor",
+      "Upgradeable Head"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Zora Armor",
+    "category": [
+      "Armor",
+      "Upgradeable Body"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Zora Greaves",
+    "category": [
+      "Armor",
+      "Upgradeable Legs"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Arrows (50)",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Royal Broadsword",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Royal Shield",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "15",
+    "name": "Bomb Flower (15)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "15",
+    "name": "50 Rupees",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "100 Rupees",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "200 Rupees",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Savage Lynel Shield",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "15",
+    "name": "Royal Bow",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Savage Lynel Bow",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Ruby (5)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Diamond (5)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Opal (10)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Topaz (5)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Sapphire (5)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Sensor",
+    "category": [
+      "Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": "15",
+    "name": "Arrows (20)",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Splash Fruit (15)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Fire Fruit (15)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Ancient Blade (5)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Wood Bundles (10)",
+    "category": [
+      "Materials"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Greg the Green Rupee",
+    "category": [
+      "Equipment"
+    ],
+    "filler": true
+  }
+]

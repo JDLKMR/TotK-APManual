@@ -1,0 +1,55 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "randomize_starting_tower": {
+			"display_name": "Randomize Starting Tower",
+			"description": "Selects from one of a selection of starter-friendly Skyview Towers to start with. If disabled, always starts with the Lookout Landing Tower.",
+			"type": "Toggle",
+			"default": false,
+			"group": "Shuffle Settings"
+		},
+		"shuffle_shrine_chests": {
+			"display_name": "Shuffle Shrine Chests",
+			"description": "Include the chests in shrines as locations.",
+			"type": "Toggle",
+			"default": true,
+			"group": "Shuffle Settings"
+		},
+		"shuffle_lightroots": {
+			"display_name": "Shuffle Lightroots",
+			"description": "Include the game's 120 lightroots as locations (logically requires the full Depths set).",
+			"type": "Toggle",
+			"default": true,
+			"group": "Shuffle Settings"
+        },
+		"shuffle_dragons_tears": {
+			"display_name": "Shuffle Dragon's Tears",
+			"description": "Include Dragon's Tears as locations.",
+			"type": "Toggle",
+			"default": true,
+			"group": "Shuffle Settings"
+        }
+    }
+
+}
